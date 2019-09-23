@@ -1,0 +1,70 @@
+.nbar{
+	background-color:#3e5062;
+}
+.navbar-inverse {
+	background-color:#3e5062;
+	border-color:#3e5062;
+    background-image: linear-gradient(to bottom, #3e5062 0px, #3e5062 100%);
+    background-repeat: repeat-x;
+}
+.footer {
+	margin: 50px 0;
+	height: 25px;
+}
+.mrgin{
+	margin-left: 250px;
+	margin-top: 80px;
+}
+nav ul li{
+	font-size: 16px;
+}
+.margin{
+	margin-top:170px;
+	clear: both;
+}
+.icn{
+	width:32px;
+	font-size:1.9em;
+}
+.worktable{
+	border: 3px solid;
+}
+.sec-nvbar ul li{
+	padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 45px;
+    border: 2px inset;
+    border-radius: 12px;
+    list-style-type: none;
+    margin-left: -40px;
+    margin-top: -0px;
+}
+.sec-nvbar ul a li:hover{
+	background-color: dodgerblue;
+    font-weight: bold;
+    color:white;
+}
+.sec-nvbar ul{	
+    margin-top: -36px;
+}
+.actve{
+	background-color: gray;
+	color: white;
+	font-weight: bold;
+}
+.bg{
+	background-color:#3e5062;
+	height: 600px; 
+}
+.adlogin{
+	width: 50%;
+	margin-left: 270px;
+	margin-top: 100px;
+}
+body{
+	background-color: #f2f2f2;
+}
+a:hover,
+a:focus {
+   text-decoration: none;
+}
